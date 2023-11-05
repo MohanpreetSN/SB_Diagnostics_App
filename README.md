@@ -1,16 +1,3 @@
-# sb_diagnostics
+# Freelance App for SB Diagnostics
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a freelance project. Its an app for a diagnostics lab where the user can login and check their reports at any time and look up the prices for different tests. There's another webapp for the staff for admin purposes where the staff can add reports for different users and create invoices among other features.
